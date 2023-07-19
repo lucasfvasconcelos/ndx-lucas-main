@@ -1,0 +1,6 @@
+.frase {
+  position: relative;
+  background: url("../../public//img/gta.jpg");
+  background-attachment: fixed;
+  height: 100vh;
+}
